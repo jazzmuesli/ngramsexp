@@ -1,0 +1,6 @@
+want	3
+live	4
+hate	-4
+die	-5
+like	2
+dislike	-3
